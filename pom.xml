@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Release-icicibankk Nexus Repository</name>
-	      <url>http://13.232.140.83:8081/repository/Release-iciciBank/</url>
+	      <url>http://13.204.86.8:8081/repository/Release-icici/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Snapshot-icicibankk Nexus Repository </name>
-	      <url>http://13.232.140.83:8081/repository/Snapshot-iciciBank/</url>
+	      <url>http://13.204.86.8:8081/repository/Snapshot-icici/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
